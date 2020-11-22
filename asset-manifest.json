@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/gtel/static/css/main.9cea1087.chunk.css",
+    "main.js": "/gtel/static/js/main.09075976.chunk.js",
+    "main.js.map": "/gtel/static/js/main.09075976.chunk.js.map",
+    "runtime-main.js": "/gtel/static/js/runtime-main.9ca5eddb.js",
+    "runtime-main.js.map": "/gtel/static/js/runtime-main.9ca5eddb.js.map",
+    "static/js/2.926499e8.chunk.js": "/gtel/static/js/2.926499e8.chunk.js",
+    "static/js/2.926499e8.chunk.js.map": "/gtel/static/js/2.926499e8.chunk.js.map",
+    "index.html": "/gtel/index.html",
+    "static/css/main.9cea1087.chunk.css.map": "/gtel/static/css/main.9cea1087.chunk.css.map",
+    "static/js/2.926499e8.chunk.js.LICENSE.txt": "/gtel/static/js/2.926499e8.chunk.js.LICENSE.txt",
+    "static/media/banner1.001a5517.jpg": "/gtel/static/media/banner1.001a5517.jpg",
+    "static/media/banner1.01c88c37.jpg": "/gtel/static/media/banner1.01c88c37.jpg",
+    "static/media/banner2.0c0a7033.jpg": "/gtel/static/media/banner2.0c0a7033.jpg",
+    "static/media/banner2.b15f0735.jpg": "/gtel/static/media/banner2.b15f0735.jpg",
+    "static/media/banner3.84fc14a8.jpg": "/gtel/static/media/banner3.84fc14a8.jpg",
+    "static/media/banner3.b034f3e2.jpg": "/gtel/static/media/banner3.b034f3e2.jpg",
+    "static/media/desktop-computer.47e545c5.png": "/gtel/static/media/desktop-computer.47e545c5.png",
+    "static/media/forex.baa8b81d.jpg": "/gtel/static/media/forex.baa8b81d.jpg",
+    "static/media/logo.bc91026d.png": "/gtel/static/media/logo.bc91026d.png",
+    "static/media/parchment.0e63bf9c.png": "/gtel/static/media/parchment.0e63bf9c.png",
+    "static/media/service.8793eefc.jpg": "/gtel/static/media/service.8793eefc.jpg",
+    "static/media/singapore-flag-icon.e115319c.jpg": "/gtel/static/media/singapore-flag-icon.e115319c.jpg",
+    "static/media/two-way-communication.7e24290b.png": "/gtel/static/media/two-way-communication.7e24290b.png",
+    "static/media/two-way-communication2.b5b803a3.png": "/gtel/static/media/two-way-communication2.b5b803a3.png",
+    "static/media/vision.6cfe16a4.gif": "/gtel/static/media/vision.6cfe16a4.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ca5eddb.js",
+    "static/js/2.926499e8.chunk.js",
+    "static/css/main.9cea1087.chunk.css",
+    "static/js/main.09075976.chunk.js"
+  ]
+}
