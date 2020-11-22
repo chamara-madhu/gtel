@@ -1,0 +1,54 @@
+.enquery-div {
+  padding: 10% 15%;
+  background: #e1d2b5;
+  color: #000;
+}
+
+.enquery-div .heading {
+  font-size: 25px;
+  text-align: center;
+  font-weight: 600;
+  color: #03738c;
+}
+
+.enquery-div .submit-btn {
+  display: block;
+  background: #f26e22;
+  color: #fff;
+  width: 70%;
+  margin: auto;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+.form-control {
+  border: 1px solid #e1d2b5;
+}
+
+.form-control:focus {
+  outline: 0;
+  box-shadow: none;
+  border-color: #cca326;
+}
+
+.form-control.is-invalid,
+.was-validated .form-control:invalid {
+  background-image: none;
+}
+
+.form-control.is-invalid:focus,
+.was-validated .form-control:invalid:focus {
+  box-shadow: none;
+}
+
+.form-group select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: textfield;
+  background: url("data:image/svg+xml;utf8,<svg fill='black' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>")
+    #f2f2f2 no-repeat calc(100% - 5px) !important;
+}
+
+.form-group label {
+  margin-bottom: 3px;
+}

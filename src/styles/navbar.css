@@ -1,0 +1,21 @@
+.main-links-ul .nav-link {
+  color: rgb(114, 114, 114) !important;
+  font-weight: 400;
+}
+
+.main-links-ul .link-active {
+  color: #03738c !important;
+  font-weight: 400;
+}
+
+.country-ul img {
+  margin-right: 15px;
+  vertical-align: middle;
+}
+
+.country-ul li {
+  color: #d91712;
+  vertical-align: middle;
+  font-size: 14px;
+  line-height: 16px;
+}

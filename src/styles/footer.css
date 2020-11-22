@@ -1,0 +1,50 @@
+.footer-sec {
+  background-size: cover;
+  width: 100%;
+  border-radius: 0;
+  background: #0d0d0d;
+  color: #fff;
+}
+
+.footer {
+  line-height: 30px;
+  font-size: 15px;
+  height: auto;
+}
+
+.footer-sub-heading {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.footer .footer-link {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 300;
+}
+
+.footer a {
+  color: #fff;
+}
+
+.footer .footer-link:hover {
+  font-weight: 400;
+}
+
+.footer tr td i {
+  color: #109ebe;
+}
+
+.follow-us {
+  font-size: 30px;
+}
+
+.follow-us:hover {
+  color: #109ebe;
+}
+
+.footer-logo {
+  width: 120px;
+  display: block;
+  margin-bottom: 25px;
+}
